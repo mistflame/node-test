@@ -1,8 +1,9 @@
 # node-test
 Just a simple NodeJS Hello World with a test.
 
-# npm install
+## Commands
+* npm install
 
-# npm start
+* npm start
 
-# npm test
+* npm test
